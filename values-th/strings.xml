@@ -28,7 +28,7 @@
 
     <string name="message_standardplayer">กำลังเปลี่ยนไปใช้ตัวเล่นเพลงมาตรฐาน</string>
 
-    <string name="message_connecting">กำลังเชื่อมต่อกับเซอร์เวอร์...</string>
+    <string name="message_connecting">กำลังเชื่อมต่อกับเซิฟเวอร์...</string>
 
     <string name="message_downloaded">ดาวน์โหลด %s เรียบร้อยแล้ว!</string>
 
